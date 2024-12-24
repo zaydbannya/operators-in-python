@@ -1,0 +1,9 @@
+number1=17
+number2=40
+number3=67
+number4=58
+number5=213
+sum=number1+number2+number3+number4+number5
+average=sum/5
+print(average)
+print(sum)
